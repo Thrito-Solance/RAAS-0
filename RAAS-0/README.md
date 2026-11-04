@@ -37,6 +37,7 @@ Constructed by via negativa, grounded in dialetheism, composed under paraconsist
     docs/03-dynamics.md     RAT kinetic layer as monad instantiation
     docs/04-paradox.md      Borromean nodes, M_Δ, trajectory law
     docs/05-synthesis.md    dialetheias, identity boundary, fatal inputs
+    docs/06-mathematics-agenda.md  the mathematics agenda (tiers, conjectures, proof targets)
     docs/archive/           the four original source documents
     src/                    Haskell blueprint (Res, Category, Borromean)
     sim/det_collapse.py    paradox collapse tracker
@@ -55,10 +56,10 @@ Collapse simulation (stdlib only):
 
 ## Status
 
-- Specification: complete (docs/00-05).
+- Specification: complete (docs/00-06).
 - Haskell blueprint: Res.hs, Category.hs, Borromean.hs.
 - Simulation: det_collapse.py — detonation boundary Φ_AB ≈ 2.5 rad; degradation cliff at overlap ≈ 0.9; trajectory law (collapse is irreversible without paid recovery).
-- Open: presence ↔ absence adjunction functor equations (docs/05-synthesis.md §7).
+- Open: presence ↔ absence adjunction equations — first target of docs/06-mathematics-agenda.md.
 
 ## Licensing
 
